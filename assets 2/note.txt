@@ -1,0 +1,23 @@
+Class bootstrap = align-items-center = tengah {V}
+Class bootstrap = align-items-start = atas {V}
+Class bootstrap = align-items-end = bawah {v}
+kalo kasih uk font kelipatan 5 atau 4
+X = Horizontal 
+Y = vertikal
+
+yang fluid2 itu = kayak pasin viewnya, dan akan menyesuaikan gambarnya dgn devicenya {?}
+
+margin 
+my = margin vertikal { atas bawah}
+mx = margi horizontal {kanan kiri} 
+mt = margin top {atas} 
+mb = margin bottom {bawah }
+ms = margin start {kiri }
+me = margin end {kanan}
+
+cara pakai my = my-3, my-2
+ukuran bootstrap 1-5, kalau mau lebih cust di vanila..
+# = menandakan kita mau memanggil menggunakan id 
+container = untuk padding sec vertikal 
+justify-content-center = horizontal tengah
+d-block = 
